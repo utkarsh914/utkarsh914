@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/utkarsh914/utkarsh914/master/picture.jpg"/>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **utkarsh914/utkarsh914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
