@@ -1,11 +1,30 @@
 <img src="https://raw.githubusercontent.com/utkarsh914/utkarsh914/master/picture.jpg"/>
+<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
 
-### :zap: Recent Activity
+<p align="left">
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com//codersanjeev/competitive-programming/issues/5) in [codersanjeev/competitive-programming](https://github.com//codersanjeev/competitive-programming)
-2. 💪 Opened PR [#5](https://github.com//codersanjeev/competitive-programming/pull/5) in [codersanjeev/competitive-programming](https://github.com//codersanjeev/competitive-programming)
-3. 🎉 Merged PR [#1](https://github.com//utkarsh914/serp-extended/pull/1) in [utkarsh914/serp-extended](https://github.com//utkarsh914/serp-extended)
-4. ❗️ Opened issue [#1](https://github.com//utkarsh914/music-downloader/issues/1) in [utkarsh914/music-downloader](https://github.com//utkarsh914/music-downloader)
-5. 🗣 Commented on [#1](https://github.com//GeekHaven/GeekHaven-2020/issues/1) in [GeekHaven/GeekHaven-2020](https://github.com//GeekHaven/GeekHaven-2020)
-<!--END_SECTION:activity-->
+## Hi there, I'm Utkarsh! 👋🏻 
+<a target="_blank" href="http://utkarsh914.github.io/"> Check out my portfolio</a>
+<!--
+I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
+<br>
+🌱 I’m currently learning React.js <br>
+💻<a target="_blank" href="http://utkarsh914.github.io/"> Check out my portfolio</a>
+  <p>
+<br>
+-->
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=utkarsh914&show_icons=true&count_private=true&title_color=e6005c" alt="Utkarsh's github stats" />
+
+  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh914&title_color=e6005c" />
+<br> 
+<br>
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/utkarsh914/count.svg" />
+</p>
+
+<p align="right">
+Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
+</p>
