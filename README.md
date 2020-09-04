@@ -12,9 +12,6 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 -->
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=utkarsh914&show_icons=true&count_private=true&title_color=e6005c" alt="Utkarsh's github stats" />
 <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh914&title_color=e6005c" />
-<br> 
-<br>
-<br>
 
 <p align="center"> 
   Visitor count<br>
