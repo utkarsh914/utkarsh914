@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/utkarsh914/utkarsh914/master/picture.jpg"/>
-<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
-
 <p align="left">
 
 ## Hi there, I'm Utkarsh! 👋🏻 
@@ -14,8 +11,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <br>
 -->
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=utkarsh914&show_icons=true&count_private=true&title_color=e6005c" alt="Utkarsh's github stats" />
-
-  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh914&title_color=e6005c" />
+<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh914&title_color=e6005c" />
 <br> 
 <br>
 <br>
